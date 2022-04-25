@@ -1,0 +1,104 @@
+
+.main-header
+{
+padding-top: 10px;
+
+}
+#active
+{
+   color: #5ECE7B;
+   font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16px;
+   line-height: 120%;
+   text-align: center;
+   text-transform: uppercase;
+   border-bottom:2px solid #5ECE7B;
+   height:65px;
+}
+.navbar ul li
+{
+    padding: 10px;
+}
+.navbar ul li a
+{
+color: #1D1F22;;
+font-family:'Raleway';
+text-transform:uppercase;
+font-style: normal;
+font-weight:normal;
+font-size: 16px;
+line-height: 120%;
+height: 37px;
+}
+.navbar ul li a:hover
+{
+    color: #5ECE7B;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 120%;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom:2px solid #5ECE7B;
+    height: 65px;   
+}
+.rotate
+{
+    
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+
+}
+#arrow2
+{
+  padding: 8px 1px 17px 1px;
+}
+#arrow1
+{
+    padding-top:11px;
+    padding-left: 7px;
+    padding-bottom: 8px;
+}
+
+
+.Shopping-Icon ul
+{
+   
+    display: flex;
+    list-style: none;
+    margin-top: 20px;
+}
+
+.Shopping-Icon ul li button
+{
+ background-color: #FFFFFF;
+ color: #1D1F22;
+ font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 160%;
+height: 29px;
+border: none;
+}
+.dropdown-menu
+{
+    width: 10px;
+}
+.cart-Icone 
+{
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 160%;
+color: #1D1F22;
+margin-left: 20px;
+
+    
+}
